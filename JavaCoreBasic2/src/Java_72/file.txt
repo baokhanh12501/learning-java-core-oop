@@ -1,0 +1,4 @@
+Xin chao minh la Khanh
+Dữ liệu: 3.14 là số PI
+Student [id=100, name=Trần Bảo Khánh]
+

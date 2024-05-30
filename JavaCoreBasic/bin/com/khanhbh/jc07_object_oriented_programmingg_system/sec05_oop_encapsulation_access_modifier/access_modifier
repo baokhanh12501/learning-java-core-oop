@@ -1,0 +1,8 @@
+
+pravita , public , default , protected => access modifier
+
++ private : dùng cho biến , phương thức và inner class. trong cùng class được phép sử dụng
++ default : dùng cho biến , phương thức và inner class. trong cùng class và các class có cùng package
++ protected: Như default, lớp mà kế thừa n sẽ truy cập được
++ public: dùng cho tất cả các class khác trong hay ngoài package đều có thế truy cập
+
